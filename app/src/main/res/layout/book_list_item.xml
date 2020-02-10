@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/book_image"
+        android:layout_width="120dp"
+        android:layout_height="160dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/image_desc"
+        android:elevation="5dp"
+        android:outlineAmbientShadowColor="@color/colorPrimary"
+        android:scaleType="centerCrop" />
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/book_title"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:textAppearance="@style/TextAppearance.AppCompat.Large"-->
+    <!--            tools:text="Title of the book" />-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/book_subtitle"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:maxLines="2"-->
+    <!--            android:textAppearance="@style/TextAppearance.AppCompat.Small"-->
+    <!--            tools:text="Subtitle of the book" />-->
+</LinearLayout>
+
+
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/book_image"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:scaleType="centerCrop"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:maxHeight="100dp"-->
+    <!--        android:maxWidth="100dp"-->
+    <!--        tools:src="@drawable/ic_launcher_background"-->
+    <!--        android:contentDescription="@string/app_name"-->
+    <!--        android:layout_marginBottom="8dp"/>-->

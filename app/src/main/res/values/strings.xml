@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="hint_text">Enter book name</string>
+    <string name="search_btn">Search</string>
+    <string name="image_desc">Image</string>
+    <string name="buy_it_now">Buy it now</string>
+    <!--    <string name="book_info_label"></string>-->
+    <style name="dummy_desc">Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        publishing
+        software like Aldus PageMaker including versions of Lorem Ipsum.
+    </style>
+    <string name="search">Search</string>
+    <string name="search_here">Search here!</string>
+
+
+</resources>
